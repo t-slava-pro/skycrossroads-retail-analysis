@@ -56,7 +56,7 @@
 
 ## 📎 Материалы
 - 📄 [Аналитический отчёт (PDF)](assets/skycrossroads-report.pdf)
-- 📊 [Презентация (Google Slides)](https://docs.google.com/presentation/d/1fCCPDUHrK64FPTEUJRMleKJleOjNhQki/edit?usp=sharing)
+- 📊 Презентация: [смотреть онлайн (Google Slides)](https://docs.google.com/presentation/d/16wkpjX6iAjJ6vSlD4s7A7D_Mb3fbXZDX/edit?usp=sharing) · [скачать (PPTX, 2.4 МБ)](assets/skycrossroads-presentation.pptx)
 
 ## 🧠 Что демонстрирует кейс
 - Работа с транзакционными данными: агрегации, метрики, аномалии.
