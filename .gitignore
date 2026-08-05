@@ -1,3 +1,10 @@
 .DS_Store
 Thumbs.db
 ~$*
+
+# --- Служебные markdown-файлы вне репозитория ---
+*.md
+!README.md
+
+# --- Секреты ---
+.env
